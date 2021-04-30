@@ -1,0 +1,22 @@
+#apps{
+    background-color: forestgreen;
+    height: 1000px;
+    width: 800px;
+    
+}
+#games{
+    background-color:springgreen;
+    height: 1000px;
+    width: 800px;
+}
+img:hover{
+    cursor: pointer;
+    transform: scale(0.4);
+}
+img{
+    transition: transform 1s;
+}
+#bot{background-color:blue;
+    height: 1000px;
+    width: 800px;   
+}
